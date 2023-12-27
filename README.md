@@ -32,6 +32,7 @@ DESCRIPTION:
 Complete the method that takes a boolean value and return a "Yes" string for true, or a "No" string for false.
 
 CODE
+
 ![boolean ](https://github.com/elamuhombe/gomycode-ES6-checkpoint/assets/10416177/12c03671-cf89-4b31-b531-1a505a712f08)
 
 #### Square n
@@ -40,6 +41,7 @@ Complete the square sum function so that it squares each number passed into it a
 For example: [1,2,2] should return 9.
 
 CODE
+
 ![square-n-sum](https://github.com/elamuhombe/gomycode-ES6-checkpoint/assets/10416177/715a1512-6140-47c3-9d70-d90b78f855b0)
 
 
